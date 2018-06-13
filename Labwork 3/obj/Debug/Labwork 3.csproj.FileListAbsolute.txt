@@ -1,0 +1,39 @@
+E:\CSC\C#\Labwork 3\Labwork 3\bin\Debug\Labwork 3.exe.config
+E:\CSC\C#\Labwork 3\Labwork 3\bin\Debug\Labwork 3.exe
+E:\CSC\C#\Labwork 3\Labwork 3\bin\Debug\Labwork 3.pdb
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csprojResolveAssemblyReference.cache
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form1.resources
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form2.resources
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form3.resources
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Properties.Resources.resources
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csproj.GenerateResource.Cache
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork 3.exe
+E:\CSC\C#\Labwork 3\Labwork 3\obj\Debug\Labwork 3.pdb
+E:\CSC\C#\Labwork 3\Labwork 3\bin\Debug\MySql.Data.dll
+E:\CSC\C#\Labwork 3\Labwork 3\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Labwork 3\Labwork 3\bin\Debug\Labwork 3.exe.config
+C:\Users\user\Desktop\Labwork 3\Labwork 3\bin\Debug\Labwork 3.exe
+C:\Users\user\Desktop\Labwork 3\Labwork 3\bin\Debug\Labwork 3.pdb
+C:\Users\user\Desktop\Labwork 3\Labwork 3\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form1.resources
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form2.resources
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form3.resources
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Properties.Resources.resources
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork 3.exe
+C:\Users\user\Desktop\Labwork 3\Labwork 3\obj\Debug\Labwork 3.pdb
+D:\Labwork 3\Labwork 3\bin\Debug\Labwork 3.exe.config
+D:\Labwork 3\Labwork 3\bin\Debug\Labwork 3.exe
+D:\Labwork 3\Labwork 3\bin\Debug\Labwork 3.pdb
+D:\Labwork 3\Labwork 3\bin\Debug\MySql.Data.xml
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csprojResolveAssemblyReference.cache
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form1.resources
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form2.resources
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Form3.resources
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork_3.Properties.Resources.resources
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csproj.GenerateResource.Cache
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork 3.csproj.CoreCompileInputs.cache
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork 3.exe
+D:\Labwork 3\Labwork 3\obj\Debug\Labwork 3.pdb
